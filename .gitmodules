@@ -1,9 +1,12 @@
 [submodule "myreadings"]
 	path = myreadings
 	url = https://github.com/too-common-name/myreadings
+	branch = main
 [submodule "myreadings_ui"]
 	path = myreadings_ui
 	url = https://github.com/too-common-name/myreadings_ui
+	branch = main
 [submodule "myreadings_deploy"]
 	path = myreadings_deploy
 	url = https://github.com/too-common-name/myreadings_deploy
+	branch = main
